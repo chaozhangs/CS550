@@ -1,0 +1,63 @@
+﻿  sample.cpp
+z:\windows.documents\desktop\final project\sample.cpp(390): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(469): warning C4305: 'argument': truncation from 'double' to 'float'
+z:\windows.documents\desktop\final project\sample.cpp(530): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(542): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(555): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(556): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(557): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(558): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(573): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(585): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(600): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(602): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(602): warning C4305: 'argument': truncation from 'double' to 'float'
+z:\windows.documents\desktop\final project\sample.cpp(614): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(617): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(617): warning C4305: 'argument': truncation from 'double' to 'float'
+z:\windows.documents\desktop\final project\sample.cpp(626): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(628): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(629): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(629): warning C4305: 'argument': truncation from 'double' to 'float'
+z:\windows.documents\desktop\final project\sample.cpp(639): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(641): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(642): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(642): warning C4305: 'argument': truncation from 'double' to 'float'
+z:\windows.documents\desktop\final project\sample.cpp(651): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(653): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(655): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(655): warning C4305: 'argument': truncation from 'double' to 'float'
+z:\windows.documents\desktop\final project\sample.cpp(664): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(670): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(671): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(672): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(681): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(683): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(684): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(684): warning C4305: 'argument': truncation from 'double' to 'float'
+z:\windows.documents\desktop\final project\sample.cpp(692): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(694): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(695): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(695): warning C4305: 'argument': truncation from 'double' to 'float'
+z:\windows.documents\desktop\final project\sample.cpp(704): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(705): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(706): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(713): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+z:\windows.documents\desktop\final project\sample.cpp(718): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+z:\windows.documents\desktop\final project\sample.cpp(1118): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(1140): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+z:\windows.documents\desktop\final project\sample.cpp(1142): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+z:\windows.documents\desktop\final project\sample.cpp(1144): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+z:\windows.documents\desktop\final project\sample.cpp(1146): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+z:\windows.documents\desktop\final project\sample.cpp(1513): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(1616): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(1617): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(1618): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(1621): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(1622): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(1623): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(1632): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(1633): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+z:\windows.documents\desktop\final project\sample.cpp(1864): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Sample.vcxproj -> Z:\Windows.Documents\Desktop\Final Project\.\Debug\Sample.exe
